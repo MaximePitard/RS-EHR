@@ -8,9 +8,9 @@ public class HelloWorld {
 		System.out.println("ajout de ligne");
 		
 		for (int i = 0; i<10; i++) {
-			System.out.println("boucle rajoutée ptdr");
+			System.out.println("boucle rajoutée ptdr");//test de modif
 		}
-	
+
 	}
 
 }
